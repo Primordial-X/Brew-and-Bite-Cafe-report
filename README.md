@@ -1,8 +1,12 @@
 # Brew-and-Bite-Cafe-report
-Details
-**https://github.com/Primordial-X/Brew-and-Bite-Cafe**
-_**Shashwat Shukla 590035116**_
-_Bhavya Samaiya  590038914_
-_Apoorv Tripathi  590034102_
-_Keshav Suthar  590037745_
-_Nitin Yadav 590038187_
+## Details
+
+**GitHub Repository:**  
+https://github.com/Primordial-X/Brew-and-Bite-Cafe
+
+**Team Members:**  
+Shashwat Shukla - 590035116  
+Bhavya Samaiya - 590038914  
+Apoorv Tripathi - 590034102  
+Keshav Suthar - 590037745  
+Nitin Yadav - 590038187
