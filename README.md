@@ -1,5 +1,5 @@
 # Brew-and-Bite-Cafe-report
-# Details
+/- Details
 # https://github.com/Primordial-X/Brew-and-Bite-Cafe
 # Shashwat Shukla 590035116
 # Bhavya Samaiya  590038914
